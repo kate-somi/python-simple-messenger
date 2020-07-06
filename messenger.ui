@@ -46,7 +46,7 @@
      </font>
     </property>
     <property name="text">
-     <string>SimpleMessenger</string>
+     <string>Chat room</string>
     </property>
    </widget>
    <widget class="QTextBrowser" name="textBrowser">
